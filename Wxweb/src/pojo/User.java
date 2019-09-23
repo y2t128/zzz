@@ -2,7 +2,8 @@ package pojo;
 /**
  * 用户表
  * @author Administrator
- *
+ *吾问无为谓吾问无为谓吾问无为谓吾问无为谓吾问无为谓
+ 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
  */
 public class User {
 	private int id;//主键id
